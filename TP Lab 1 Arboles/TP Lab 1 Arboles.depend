@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1455901863 source:c:\users\carlos\desktop\tp lab 1 arboles\tp lab 1 arboles\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"cargararbol.h"
+	"cargarpresupuesto.h"
+	"informes.h"
+
+1455899672 c:\users\carlos\desktop\tp lab 1 arboles\tp lab 1 arboles\funciones.h
+	<windows.h>
+
+1455997243 c:\users\carlos\desktop\tp lab 1 arboles\tp lab 1 arboles\cargararbol.h
+
+1455987591 c:\users\carlos\desktop\tp lab 1 arboles\tp lab 1 arboles\cargarpresupuesto.h
+
+1455901863 c:\users\carlos\desktop\tp lab 1 arboles\tp lab 1 arboles\informes.h
+
